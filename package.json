@@ -1,6 +1,6 @@
 {
   "name": "@jksn/custom-hooks",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Custom react hooks grouped in one package.",
   "author": "jksn",
   "license": "MIT",
